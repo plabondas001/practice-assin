@@ -251,7 +251,7 @@ main {
     justify-content: center;
     align-items: center;
     text-align: center;
-    height: 500px;
+    height: 650px;
     margin: 0 auto;
     border-radius: 15px;
     margin-top: 50px;
@@ -279,4 +279,23 @@ main {
     background-color: rgb(255, 255, 255);
     padding: 10px 25px;
     border-radius: 5px;
+}
+/* footer section  */
+footer{
+    margin-top: 100px;
+    background-color: rgba(13, 19, 33, 0.03);
+    height: 100px;
+    display: flex;
+
+}
+.foot-sec{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    width: 1300px;
+}
+.ft-img{
+    display: flex;
+    gap: 20px;
 }
