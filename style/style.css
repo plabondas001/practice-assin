@@ -280,22 +280,25 @@ main {
     padding: 10px 25px;
     border-radius: 5px;
 }
+
 /* footer section  */
-footer{
+footer {
     margin-top: 100px;
     background-color: rgba(13, 19, 33, 0.03);
     height: 100px;
     display: flex;
 
 }
-.foot-sec{
+
+.foot-sec {
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin: 0 auto;
     width: 1300px;
 }
-.ft-img{
+
+.ft-img {
     display: flex;
     gap: 20px;
 }
